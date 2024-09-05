@@ -36,10 +36,10 @@ function Landing() {
                       initial={{ width: 0 }}
                       animate={{ width: "9vw" }}
                       transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
-                      className="w-[9vw] h-[5vw] bg-red-500 top-[7px] relative rounded-md"
+                      className="w-[9vw] h-[5vw]  top-[7px] relative rounded-md"
                     >
                       <img
-                        src="src/assets/content-image01.jpg"
+                        src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg"
                         className="w-full h-full object-cover rounded-md"
                         alt=""
                       />

@@ -24,7 +24,7 @@ function Featuresd() {
               <div className="w-full h-full rounded-xl overflow-hidden">
                 <img
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-110 cursor-pointer"
-                  src="src/assets/Frame-3875-663x551.jpg"
+                  src="https://ochi.design/wp-content/uploads/2023/08/Frame-3875-663x551.jpg"
                   alt="Card 1"
                 />
               </div>
@@ -37,7 +37,7 @@ function Featuresd() {
             <div className="w-1/2 h-[75vh] overflow-hidden rounded-xl z-10 relative flex items-center justify-center transition-transform duration-300 hover:scale-90">
               <div className="w-full h-full rounded-xl overflow-hidden">
                 <img
-                  src="src/assets/Fyde_Illustration_Crypto_2-663x551.png"
+                  src="https://ochi.design/wp-content/uploads/2023/10/Fyde_Illustration_Crypto_2-663x551.png"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-110 cursor-pointer"
                   alt="Card 2"
                 />
